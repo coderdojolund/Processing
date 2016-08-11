@@ -14,4 +14,6 @@ Du behöver ha ett fungerande epostkonto. Har du inget så kan du skapa ett till
 
 ... och glöm inte bort att spara din kod ofta (Save).
 
+Fortsätt nu med Malins [Lär dig programmera Processing](http://www.malinc.se/programming/processing/sv/).
+
 [Utskriftsversion](https://gitprint.com/coderdojolund/Processing/edit/master/OpenProcessing.md)
