@@ -12,3 +12,4 @@ Du behöver ha ett fungerande epostkonto. Har du inget så kan du skapa ett till
 ## 3. Börja koda
 ![open-processing-new-sketch](https://cloud.githubusercontent.com/assets/4598641/17587857/2fb9aedc-5fcb-11e6-8756-5493ee14f6f1.png)
 
+[Utskriftsversion](https://gitprint.com/coderdojolund/Processing/edit/master/OpenProcessing.md)
