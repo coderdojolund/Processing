@@ -1,6 +1,6 @@
 # Kom igång med OpenProcessing
 
-Du behöver ha ett fungerande epostkonto. Har du inget så kan du skapa ett till exempel på [gmail](htts://gmail.com).
+Du behöver ha ett fungerande epostkonto. Har du inget så kan du skapa ett till exempel på [gmail](http://gmail.com).
 
 ## 1. Skapa ett konto
 
