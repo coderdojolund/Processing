@@ -1,2 +1,2 @@
 # Processing
-[Kom igång med OpenProcessing](openprocessing.md)
+[Kom igång med OpenProcessing](OpenProcessing.md)
