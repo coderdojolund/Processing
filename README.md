@@ -1,2 +1,2 @@
 # Processing
-Programmera i Processing
+[Kom igång med OpenProcessing](openprocessing.md)
